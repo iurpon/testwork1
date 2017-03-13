@@ -1,0 +1,4 @@
+  1. Пэйджинг не успел прикрутить, так что если будет testworkX(x>1), что можно глянуть его сначала. Вдруг там есть)))
+  2. Если "и так сойдёт"(c), то дать знать, я сразу проплачу.
+  3. путь src/main/java/home/webapplication/b не верный. Нужно src/main/java/home/webapplication/bl
+  4. Deploy idea http://localhost:8080/
